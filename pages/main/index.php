@@ -15,8 +15,8 @@
      
     <div class="absolute top-0 left-0 h-full w-full flex items-end justify-end p-4 md:p-8">
         <a href="#contact">
-            <div class="flex items-center justify-center rounded-full h-12 w-12 md:h-16 md:w-16 shadow-md shadow-black bg-teal-700 hover:bg-teal-900 text-white">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 md:h-8 md:w-8 fill-current" viewBox="0 0 42 42">
+            <div class="flex items-center justify-center rounded-full h-12 w-12 md:h-14 md:w-14 shadow-md shadow-black bg-zinc-700 hover:bg-zinc-900 text-white hover:text-zinc-200">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 md:h-6 md:w-6 fill-current" viewBox="0 0 42 42">
                     <path d="M35.768 34H5a5 5 0 0 1-5-5.001V5a5 5 0 0 1 5-5h31.999A5 5 0 0 1 42 5v37s-6.253-7.64-6.232-8ZM38 5.999a2 2 0 0 0-2-2H5.999a2 2 0 0 0-2 2V28a2 2 0 0 0 2 1.999H36c-.006 0 2 2.001 2 2.001V5.999Z"/>
                     <path d="M8 7.999h25.999V12H8V7.999ZM8 14.999h25.999V19H8v-4.001ZM8 21.999h25.999V26H8v-4.001Z"/>
                 </svg>
